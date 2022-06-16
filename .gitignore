@@ -1,0 +1,12 @@
+
+# Dependency directories
+node_modules
+
+# Idear project files
+.idea
+
+.DS_Store
+.vscode/launch.json
+
+package-lock.json
+yarn.lock
