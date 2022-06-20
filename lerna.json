@@ -5,5 +5,7 @@
   "useNx": false,
   "npmClient": "yarn",
   "useWorkspaces": true,
+  "hoist": true,
+  "stream": true,
   "version": "0.0.0"
 }
