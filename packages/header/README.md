@@ -1,4 +1,4 @@
-# `header`
+# `@lerna-ui/header`
 
 > TODO: description
 

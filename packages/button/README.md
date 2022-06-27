@@ -1,4 +1,4 @@
-# `button`
+# `@lerna-ui/button`
 
 > TODO: description
 

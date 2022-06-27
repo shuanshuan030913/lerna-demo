@@ -1,4 +1,4 @@
-# `page`
+# `@lerna-ui/page`
 
 > TODO: description
 
